@@ -21,11 +21,11 @@ This "workspace" provides an approach to helping teams and individuals do "work"
 
 One of:
 
-- Open the [`coreyti/ergonomic` project](https://github.com/coreyti/ergonomic) on GitHub and choose "Use this template".
+- Open the [`ergonomic/ergonomic` project](https://github.com/ergonomic/ergonomic) on GitHub and choose "Use this template".
 - Clone that same, and... whatever:
 
   ```shell
-  $ git clone https://github.com/coreyti/ergonomic
+  $ git clone https://github.com/ergonomic/ergonomic
   ```
 
 ## Usage
